@@ -176,6 +176,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Dash Hudson](https://dashhudson.com) - Social media management platform.
 * [Gorgias](https://www.gorgias.com) - Customer service for online stores.
 * [Zendesk](https://www.zendesk.com) - Customer service ticketing (+ voice, chat).
+* [Aircall](https://aircall.io) - Phone and text based customer communications and intelligence platform with virtual agents, AI-driven insights, and automation.
 
 ### Research and Testing
 * [Hearsay](https://hearsay.io) - Platform to facilitate qualitative customer conversations.
