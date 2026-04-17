@@ -128,6 +128,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 ### Providers/Platforms
 * [Pimcore](https://pimcore.com/en) - Product master data and asset management.
 * [Arkeneo PIM](https://www.akeneo.com) - Product Information Management and Product Experience Management.
+* [ShopSavvy Data API](https://shopsavvy.com/data) - Product data API with barcode/UPC/EAN/ASIN lookups, real-time pricing, and price history across tens of thousands of retailers.
 
 ## Merchandise Planning
 * [TXT Retail](https://www.aptos.com/solutions/forecasting-allocation-replenishment/) - Forecasting solution, acquired by Aptos in 2018.
@@ -207,6 +208,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 ## Business Intelligence and Insights
 ### Providers/Platforms
 * [Amazon Web Services](https://aws.amazon.com) - Composable cloud analytics tools (AWS RedShift, AWS Glue, QuickSight).
+* [ShopSavvy Business](https://shopsavvy.com/business) - Competitive price monitoring across tens of thousands of retailers with scheduled refreshes and price change alerts.
 * [Prefect](https://www.prefect.io) - Dataflow automation.
 * [Tableau](https://www.tableau.com) - Dashboard and reporting writing solution owned by Salesforce.
 * [Metabase](https://www.metabase.com) - Dashboard and analytics tool allowing users to explore their retail data.
