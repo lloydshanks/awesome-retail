@@ -219,7 +219,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Purple Wifi](https://purple.ai) - Guests and social Wifi solutions.
 * [Queue It](https://queue-it.com) - Ensure bursty, high traffic eComm sites stay up.
 * [FittingBox](https://www.fittingbox.com/en/) - The mirror reinvented.
-* [Clerk](https://clerk.com) - Sophisticated user authentication.
+* [Clerk](https://clerk.com) - Authentication and user management with prebuilt UI components.
 * [Vusion](https://www.vusion.com) - IoT, in-store digital campaigns, electronic shelf labelling, and retail store data platforms.
 
 ## Retail News
