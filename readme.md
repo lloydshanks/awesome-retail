@@ -140,6 +140,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Anaplan](https://www.anaplan.com)
 
 ## Supply Chain
+* [Duvo](https://www.duvo.ai) - Execution platform for grocery and retail operations; runs operational work across existing systems (SAP, TMS, portals) with human approvals.
 * [Shipwire](https://www.shipwire.com) - 3PL as an API.
 * [project44](https://www.project44.com) - Delivery API's.
 * [Flexport](https://www.flexport.com) - Supply chain softare based in the US, Shopify sold their fulfilment platform to them.
