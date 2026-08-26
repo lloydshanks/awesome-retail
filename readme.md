@@ -221,6 +221,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [FittingBox](https://www.fittingbox.com/en/) - The mirror reinvented.
 * [Clerk](https://clerk.com) - Sophisticated user authentication.
 * [Vusion](https://www.vusion.com) - IoT, in-store digital campaigns, electronic shelf labelling, and retail store data platforms.
+* [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice/receipt PDF generator for shopkeepers. [Commercial EUR 249 one-time](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=retail-technology-v1) white-label PDFs, 6 templates, CSV batch CLI, no account.
 
 ## Retail News
 * [RetailWeek](https://www.retail-week.com) - London based retail news.
