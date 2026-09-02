@@ -78,6 +78,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [ITVisions](https://www.itvisions.com.au) - Australian based POS solution.
 * [Apparel 21](https://apparel21.com) - Australian POS and inventory system specialising in apparel.
 * [Shopify POS](https://www.shopify.com/au/pos) - POS solutions from Shopify.
+* [Posnic POS](https://posnic.io/) - Open-source POS and billing software for retail shops and restaurants, with offline desktop use and online/offline deployments; source code is on [GitHub](https://github.com/Posnic/POS).
 
 ## Order Management
 ### Providers/Platforms
