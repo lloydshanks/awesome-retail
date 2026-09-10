@@ -73,7 +73,7 @@ Contributions to this list are welcome! Contributions welcome! Read the [contrib
 * [Retail Directions](https://www.retaildirections.com) - Australian POS and inventory system with customers like Cotton On, Body Shop, and MECCA.
 * [Markinson Shopkeeper](https://markinson.com.au/shopkeeper/) - Australian PO solution with customers like JB HiFi.
 * [Surefire POS](https://surefiresystems.com) - Australian based POS solution focussing on FMCG customers.
-* [Posnic](https://posnic.io/) - Offline-first POS and billing software for retail shops and restaurants, with [public AGPL-3.0 source](https://github.com/Posnic/POS), online/offline workflows, and desktop packages for Windows, macOS, and Linux.
+* [Posnic](https://www.posnic.com/) - Offline-first POS and billing software for retail shops and restaurants, with [public AGPL-3.0 source](https://github.com/Posnic/POS), online/offline workflows, and desktop packages for Windows, macOS, and Linux.
 * [Retail Pro](https://www.retailpro.com) - US based POS solution use by customers like LVMH.
 * [VendHQ](https://www.vendhq.com/) - Cloud based POS for use on tablets, owned by Lightspeed.
 * [ITVisions](https://www.itvisions.com.au) - Australian based POS solution.
